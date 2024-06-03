@@ -25,9 +25,6 @@ github_username: username
 minimal_mistakes_skin: "sunrise"
 search: true
 
-header:
-  teaser: /assets/images/bio-photo.jpg
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -78,6 +75,8 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+header:
+  teaser: /assets/images/bio-photo.jpg
 
 footer:
   links:
