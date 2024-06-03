@@ -79,7 +79,7 @@ author:
       url: "https://instagram.com/"
 header:
   logo: "assets/images/channels4_profile.jpg"
-  teaser: "assets/images/giscert-header-v1.webp"
+#  teaser: "assets/images/giscert-header-v1.webp"
   masthead_title: "My Custom Title"
 
 
@@ -107,6 +107,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
