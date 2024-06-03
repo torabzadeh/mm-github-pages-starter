@@ -76,7 +76,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 header:
-  teaser: /assets/images/bio-photo.jpg
+  teaser: "assets/images/giscert-header-v1.webp"
 
 footer:
   links:
