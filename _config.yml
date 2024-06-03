@@ -59,8 +59,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Hossein Torabzadeh"
+  avatar : "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=mhmdUO0AAAAJ&citpid=2"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
