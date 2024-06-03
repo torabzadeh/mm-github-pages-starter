@@ -24,7 +24,8 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: "sunrise"
 search: true
-site.locale: "fa-IR"
+# site.locale: "fa-IR"
+
 
 # Build settings
 markdown: kramdown
