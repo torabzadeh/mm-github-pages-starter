@@ -80,6 +80,8 @@ author:
 header:
   logo: "assets/images/channels4_profile.jpg"
   teaser: "assets/images/giscert-header-v1.webp"
+  masthead_title: "My Custom Title"
+
 
 footer:
   links:
