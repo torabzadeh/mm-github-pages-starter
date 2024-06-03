@@ -78,6 +78,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 header:
+  logo: "assets/images/channels4_profile.jpg"
   teaser: "assets/images/giscert-header-v1.webp"
 
 footer:
