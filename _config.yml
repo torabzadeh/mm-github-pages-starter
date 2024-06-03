@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Hossein
-subtitle: "Version 2.0"
+subtitle: "personal webpage"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -24,6 +24,8 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: "sunrise"
 search: true
+
+teaser: "https://www.wsl.ch/fileadmin/_processed_/0/e/csm_Teaser_image_RSL2023_bd87eea4ca.jpg"
 
 # Build settings
 markdown: kramdown
