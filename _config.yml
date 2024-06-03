@@ -25,7 +25,8 @@ github_username: username
 minimal_mistakes_skin: "sunrise"
 search: true
 
-teaser: "https://www.wsl.ch/fileadmin/_processed_/0/e/csm_Teaser_image_RSL2023_bd87eea4ca.jpg"
+header:
+  teaser: /assets/images/bio-photo.jpg
 
 # Build settings
 markdown: kramdown
